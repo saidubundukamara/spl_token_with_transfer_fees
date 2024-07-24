@@ -1,6 +1,6 @@
-# **Token with Metadata**
+# **Token with Transfer Fee**
 
-This project demonstrates how to create **Solana Program Library (SPL) tokens** with metadata using the Solana blockchain. It utilizes several Solana packages to facilitate the creation, management, and interaction with tokens.
+This project demonstrates how to create **Solana Program Library (SPL) tokens** with Transfer fees using the Solana blockchain. It utilizes several Solana packages to facilitate the creation, management, and interaction with tokens.
 
 ## **Table of Contents**
 
