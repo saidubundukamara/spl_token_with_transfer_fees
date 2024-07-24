@@ -1,0 +1,17 @@
+{
+  "name": "token_with_transfer_fees",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to create **Solana Program Library (SPL) tokens** with metadata using the Solana blockchain. It utilizes several Solana packages to facilitate the creation, management, and interaction with tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saidu Bundu-Kamara",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.3.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/spl-token-metadata": "^0.1.4",
+    "@solana/web3.js": "^1.95.1"
+  }
+}
